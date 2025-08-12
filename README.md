@@ -19,9 +19,10 @@
 
 | 文件名              | 说明                         |
 |---------------------|------------------------------|
-| `DesktopSwitcher.exe` | 主程序，双击运行即可使用     |
-| `icon.ico`           | 程序图标（可选）             |
-| `README.md`          | 项目说明文档                 |
+| `DesktopSwitcher.exe` | 主程序，下载双击运行即可使用  |
+| `DesktopSwitcher.ico` | 程序图标                    |
+| `README.md`          | 项目说明文档                  |
+| `DesktopSwitcher.ahk`| ahk代码                      |
 
 ---
 
